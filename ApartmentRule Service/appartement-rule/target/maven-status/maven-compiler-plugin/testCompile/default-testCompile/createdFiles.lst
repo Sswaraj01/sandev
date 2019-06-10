@@ -1,0 +1,5 @@
+com\appartementrule\constant\TestConstant.class
+com\appartementrule\AppartementRuleApplicationTests.class
+com\appartementrule\controller\ApartmentRuleControllerTest.class
+com\appartementrule\util\TestHelper.class
+com\appartementrule\service\ApartmentRuleImplTest.class

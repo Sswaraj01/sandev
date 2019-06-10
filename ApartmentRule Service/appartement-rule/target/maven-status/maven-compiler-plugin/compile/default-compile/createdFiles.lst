@@ -1,0 +1,15 @@
+com\apartmentrule\model\RuleID.class
+com\apartmentrule\dao\ApartmentRuleDao.class
+com\apartmentrule\services\ApartmentRuleManager.class
+com\apartmentrule\configuration\SwaggerConfig.class
+com\apartmentrule\model\RuleDetailsEntity.class
+com\apartmentrule\controller\ApartmentRuleController.class
+com\apartmentrule\exception\ExceptionHandlerAdvice.class
+com\apartmentrule\repository\ApartmentRuleRepository.class
+com\apartmentrule\constant\ApartmentRuleConstants.class
+com\apartmentrule\exception\ErrorDetails.class
+com\apartmentrule\bean\ApartmentRuleDtls.class
+com\apartmentrule\services\ApartmentRuleImpl.class
+com\apartmentrule\ApartmentRuleApplication.class
+com\apartmentrule\bean\ApartmentRuleResponseBean.class
+com\apartmentrule\exception\ApartmentRuleCustomException.class
